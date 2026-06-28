@@ -34,7 +34,7 @@ This project is an interactive Excel dashboard created to analyze Vrinda Store's
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Store-dashboard.png)
 
 ## Project Type
 Learning project created while practicing Excel dashboarding, Pivot Tables, data analysis, and visualization techniques.
